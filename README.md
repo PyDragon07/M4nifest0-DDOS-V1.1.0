@@ -32,7 +32,7 @@
 
 # See how it works v1.0.0
 ----------------------
-- 🔞 https://youtu.be/KiPKmmc2CzI
+- 🔞 https://www.youtube.com/watch?v=_zevZyXiVYk
 
 # How to receive :
 ----------------------
