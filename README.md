@@ -3,26 +3,13 @@
 
 ## Main features
 
--📌 Use for small sites and blogs.
+-📌 Extract group lists
 
--📌 High speed and power.
+-📌 Extract the list of super groups
 
--📌 Destroy the site and turn it off.
+-📌 Extract via Google Drew
 
--📌 Red damage.
-
--📌 The API proxy is used.
-
--📌 It needs high speed internet.
-
--📌 It is better to run on a virtual server.
-
--📌 Overuse There is a possibility of hardware failure.
-
--📌 Use multiple servers simultaneously for quick destruction and shutdown.
-
--📌 Easily disrupt the server and shut down the processor.
-
+-📌 Clever extraction
 
 # Disclaimer:
 ----------------------
