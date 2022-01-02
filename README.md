@@ -23,6 +23,8 @@
 
 -📌 Easily disrupt the server and shut down the processor.
 
+-📌 Can bypass some DDoS protection
+
 # Disclaimer:
 ----------------------
 - 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
